@@ -1,2 +1,2 @@
 # LogoProcessing-
-Logo clase processing
+Este es un repositorio de clase LogoProcessing.
